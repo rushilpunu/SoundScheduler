@@ -1,0 +1,8 @@
+# Flutter build outputs
+build/
+.dart_tool/
+.packages
+.pub/
+
+# Logs
+*.log
