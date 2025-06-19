@@ -1,0 +1,7 @@
+.dart_tool/
+.packages
+build/
+**/Generated.xcconfig
+**/*.iml
+**/.idea/
+**/flutter_*
